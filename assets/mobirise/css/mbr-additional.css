@@ -1,3 +1,4 @@
+@import url(../../../https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
@@ -21,11 +22,11 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Merriweather', serif;
   font-size: 4.25rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Merriweather', serif;
   font-size: 2.4rem;
 }
 .display-4 {
@@ -711,12 +712,12 @@ pre {
 /* Headers*/
 .cid-qqexBRSTHK .navbar {
   padding: .5rem 0;
-  background: #c1c1c1;
+  background: #d7d7d7;
   transition: none;
   min-height: 77px;
 }
 .cid-qqexBRSTHK .navbar-dropdown.bg-color.transparent.opened {
-  background: #c1c1c1;
+  background: #d7d7d7;
 }
 .cid-qqexBRSTHK a {
   font-style: normal;
@@ -795,7 +796,7 @@ pre {
   padding-bottom: 0;
 }
 .cid-qqexBRSTHK .dropdown .dropdown-menu {
-  background: #c1c1c1;
+  background: #d7d7d7;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1106,7 +1107,7 @@ pre {
 .cid-qqexBTADwy {
   padding-top: 45px;
   padding-bottom: 0px;
-  background-color: #2e2e2e;
+  background-color: #465052;
 }
 @media (max-width: 767px) {
   .cid-qqexBTADwy .content {
@@ -1540,7 +1541,7 @@ pre {
 }
 .cid-qr9ZFkmd78 {
   padding-top: 120px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/mbr-1620x1080.jpg");
 }
 .cid-qr9ZxVMntB {
@@ -1581,7 +1582,7 @@ pre {
   text-align: left;
 }
 .cid-qra1D5GTVJ {
-  padding-top: 30px;
+  padding-top: 45px;
   padding-bottom: 15px;
   background-image: url("../../../assets/images/mbr-1620x1080.jpg");
 }
@@ -1619,8 +1620,13 @@ pre {
   width: 100%;
   overflow: hidden;
 }
+.cid-qrCP5Foo6U {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
+}
 .cid-qqZFV6cCac {
-  padding-top: 30px;
+  padding-top: 0px;
   padding-bottom: 90px;
   background-color: #d7d7d7;
 }
@@ -2455,18 +2461,15 @@ pre {
     border-left: .30em solid transparent;
   }
 }
-.cid-qqZWANKt7d {
+.cid-qrCSqqodG1 {
   padding-top: 120px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-qqZWANKt7d .mbr-section-subtitle {
-  color: #767676;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
 }
 .cid-qqZWq1RHHB {
   padding-top: 45px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #d7d7d7;
 }
 @media (min-width: 992px) {
   .cid-qqZWq1RHHB .mbr-figure {
@@ -2484,7 +2487,7 @@ pre {
 .cid-qqZWsgIIWu {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 @media (min-width: 992px) {
   .cid-qqZWsgIIWu .mbr-figure {
@@ -2503,7 +2506,7 @@ pre {
 .cid-qqZWqRBOpM {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #d7d7d7;
 }
 @media (min-width: 992px) {
   .cid-qqZWqRBOpM .mbr-figure {
@@ -2521,7 +2524,7 @@ pre {
 .cid-qr3Um83cdO {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-qr3Um83cdO .line {
   background-color: #149dcc;
@@ -2544,7 +2547,7 @@ pre {
 .cid-qqZWlVse6C {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-qqZWlVse6C .counter-container {
   color: #767676;
@@ -4563,7 +4566,7 @@ pre {
 }
 .cid-qr9PTpXwYe {
   padding-top: 120px;
-  padding-bottom: 15px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-qr9PTpXwYe .title {
@@ -4601,7 +4604,7 @@ pre {
 }
 .cid-qr9RpuVDEj .timeline-text-content {
   padding: 2rem 2.5rem;
-  background: #9bcbdb;
+  background: #9abbc3;
   margin-right: 2rem;
   transition: all .4s;
 }
@@ -4638,7 +4641,7 @@ pre {
   text-align: center;
   border-radius: 50%;
   display: inline-block;
-  background-color: #9bcbdb;
+  background-color: #9abbc3;
   top: 20px;
   margin-left: -30px;
 }
@@ -4657,7 +4660,7 @@ pre {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #9bcbdb;
+  background-color: #9abbc3;
   left: calc(50% - 1px);
   height: calc(100% + 4rem);
 }
